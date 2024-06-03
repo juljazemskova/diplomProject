@@ -19,7 +19,7 @@
 
 ### Краткая информация о данных
 - Датасет содержит данные об объектах недвижимости США на [ресурсе](https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view?usp=share_link) 
-- Project_final.ipynb - Jupiter Notebook с основным проектом проектом
+- Project_final.ipynb - Jupiter Notebook с основным проектом 
 - Project_new.ipynb - Jupiter Notebook с  несколько изменённой версией проекта (более тщательно проведён EDA, но с худшими метриками во время обучения)
 - uscities.csv - датасет с данными по американским городам по [адрессу](https://drive.google.com/file/d/1kgmEtk9I-bHu2kz-kZ9-KjrKauvGjJ2A/view?usp=sharing)
 - server.py - сервер на Flask
