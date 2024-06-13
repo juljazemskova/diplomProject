@@ -19,8 +19,8 @@
 
 ### Краткая информация о данных
 - Датасет содержит данные об объектах недвижимости США на [ресурсе](https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view?usp=share_link) 
-- Project_final.ipynb - Jupiter Notebook с основным проектом  [ресурсе]([https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view?usp=share_link](https://colab.research.google.com/drive/1tSu3s3X5kcgbM_Ky2Vo6oQLDaK2R5hLB?usp=sharing)) 
-- Project_new.ipynb - Jupiter Notebook с  несколько изменённой версией проекта (более тщательно проведён EDA, но с худшими метриками во время обучения) [ресурсе]([[https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view?usp=share_link](https://colab.research.google.com/drive/1tSu3s3X5kcgbM_Ky2Vo6oQLDaK2R5hLB?usp=sharing)](https://colab.research.google.com/drive/1smk0XFtpbOJS--zm6HoKDLEX3Qj36VSW?usp=sharing)) 
+- Project_final.ipynb - Jupiter Notebook с основным проектом  [ресурсе](https://colab.research.google.com/drive/1tSu3s3X5kcgbM_Ky2Vo6oQLDaK2R5hLB?usp=sharing) 
+- Project_new.ipynb - Jupiter Notebook с  несколько изменённой версией проекта (более тщательно проведён EDA, но с худшими метриками во время обучения) [ресурсе](https://colab.research.google.com/drive/1smk0XFtpbOJS--zm6HoKDLEX3Qj36VSW?usp=sharing) 
 - uscities.csv - датасет с данными по американским городам по [адрессу](https://drive.google.com/file/d/1kgmEtk9I-bHu2kz-kZ9-KjrKauvGjJ2A/view?usp=sharing)
 - server.py - сервер на Flask
 - client.py - клиент для тестирования
